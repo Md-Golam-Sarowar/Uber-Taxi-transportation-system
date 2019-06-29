@@ -1,0 +1,66 @@
+hatirjhel
+10
+East west university
+0
+Aftabnagar
+6
+DIT Project
+20
+
+Jamuna future park
+54
+North south university
+0
+independent university
+0
+
+national meusium
+5
+dhaka university
+5
+buet
+9
+dhaka medical
+21
+bardem general hospital
+10
+sheikh mujib medical university
+40
+
+diya bari
+8
+uttara park
+7
+airport
+15
+bangladesh bank
+31
+
+nodre dam college and university
+20
+railway station
+10
+bangladesh bank
+16
+park
+3
+
+farmgate park
+4
+UCC coaching
+0
+tejgoan college
+0
+farmgate market
+9
+
+underground market
+3
+zero point
+0
+bangabandhu market
+5
+majar
+10
+bangabandhu stadium
+20

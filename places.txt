@@ -1,0 +1,16 @@
+rampura banani 5
+rampura farmgate 7
+banani gulisthan 15
+banani motijeel 10 
+farmgate rampura 8
+farmgate shahbag 2
+farmgate gulisthan 15
+shahbag farmgate 12
+shahbag rampura 10
+gulisthan saidabad 12
+gulisthan shahbag 8
+motijeel shahbag 12
+motijeel saidabad 12
+saidabad banani 13
+saidabad motijeel 8
+

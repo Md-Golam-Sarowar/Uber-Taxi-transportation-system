@@ -1,0 +1,43 @@
+rampura
+hatirjhel 10 tk
+East west university 0 tk
+Aftabnagar 6 tk
+DIT Project 20 tk
+
+banani
+Jamuna future park 54 tk
+North south university 0 tk
+independent university 0 tk
+
+shahbag
+national meusium 5 tk
+dhaka university 5 tk
+buet 9 tk
+dhaka medical 21 tk
+bardem general hospital 10 tk
+sheikh mujib medical university 40 tk
+
+saidabad
+diya bari 8 tk
+uttara park 7 tk
+airport 15 tk
+bangladesh bank 31 tk
+
+motijeel 
+nodre dam college and university 20 tk
+railway station 10 tk
+bangladesh bank 16 tk
+park 3 tk
+
+farmgate
+farmgate park 4 tk
+UCC coaching 0 tk
+tejgoan college 0 tk
+farmgate market 9 tk
+
+gulisthan
+underground market 3 tk
+zero point 0 tk
+bangabandhu market 5 tk
+majar 20 tk
+bangabandhu stadium
